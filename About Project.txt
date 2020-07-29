@@ -1,0 +1,18 @@
+Introduction:
+
+This project is of Machine Learning Face Recoginision project 
+In this project i have used
+1. OpenCV a common and mostly used library of python.
+2. Numpy 
+
+This project is divided into three parts:
+1. part1.py
+In this a dialoge box will open and take the samples of your faces (Here I have set the samples to 100 so that my collection dosen't fill.)
+
+2.part2.py
+In this our model will train.
+It converts all the images to gray scale(black and white type, which helps it to train our model better)
+
+3. part3.py
+This will take final picture of user and the compare with the trained model. And give the final output.
+
